@@ -25,15 +25,25 @@ layout: default
 <link rel="stylesheet" href="../../../assets/css/copy-button.css" />
 
 
-# :warning: python_library/data_structures/segment_tree.py
+# :heavy_check_mark: python_library/data_structures/segment_tree.py
 
 <a href="../../../index.html">Back to top page</a>
 
 * category: <a href="../../../index.html#4f7277da04114aac533381a4614f94a3">python_library/data_structures</a>
 * <a href="{{ site.github.repository_url }}/blob/master/python_library/data_structures/segment_tree.py">View this file on GitHub</a>
-    - Last commit date: 1970-01-01 00:00:00+00:00
+    - Last commit date: 2020-08-09 12:53:27+00:00
 
 
+
+
+## Verified with
+
+* :heavy_check_mark: <a href="../../../verify/tests/hld_vertex_add_path_sum.test.py.html">tests/hld_vertex_add_path_sum.test.py</a>
+* :heavy_check_mark: <a href="../../../verify/tests/hld_vertex_add_subtree_sum.test.py.html">tests/hld_vertex_add_subtree_sum.test.py</a>
+* :heavy_check_mark: <a href="../../../verify/tests/segment_tree_point_add_range_sum.test.py.html">tests/segment_tree_point_add_range_sum.test.py</a>
+* :heavy_check_mark: <a href="../../../verify/tests/segment_tree_point_set_range_composite.test.py.html">tests/segment_tree_point_set_range_composite.test.py</a>
+* :heavy_check_mark: <a href="../../../verify/tests/segment_tree_range_min_query.test.py.html">tests/segment_tree_range_min_query.test.py</a>
+* :heavy_check_mark: <a href="../../../verify/tests/segment_tree_staticrmq.test.py.html">tests/segment_tree_staticrmq.test.py</a>
 
 
 ## Code

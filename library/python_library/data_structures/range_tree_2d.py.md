@@ -25,15 +25,20 @@ layout: default
 <link rel="stylesheet" href="../../../assets/css/copy-button.css" />
 
 
-# :warning: python_library/data_structures/range_tree_2d.py
+# :x: python_library/data_structures/range_tree_2d.py
 
 <a href="../../../index.html">Back to top page</a>
 
 * category: <a href="../../../index.html#4f7277da04114aac533381a4614f94a3">python_library/data_structures</a>
 * <a href="{{ site.github.repository_url }}/blob/master/python_library/data_structures/range_tree_2d.py">View this file on GitHub</a>
-    - Last commit date: 1970-01-01 00:00:00+00:00
+    - Last commit date: 2020-08-09 12:53:27+00:00
 
 
+
+
+## Verified with
+
+* :x: <a href="../../../verify/tests/range_tree_2d.test.py.html">tests/range_tree_2d.test.py</a>
 
 
 ## Code

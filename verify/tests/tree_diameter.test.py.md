@@ -25,15 +25,22 @@ layout: default
 <link rel="stylesheet" href="../../assets/css/copy-button.css" />
 
 
-# :x: tests/tree_diameter.test.py
+# :heavy_check_mark: tests/tree_diameter.test.py
 
 <a href="../../index.html">Back to top page</a>
 
 * category: <a href="../../index.html#b61a6d542f9036550ba9c401c80f00ef">tests</a>
 * <a href="{{ site.github.repository_url }}/blob/master/tests/tree_diameter.test.py">View this file on GitHub</a>
-    - Last commit date: 1970-01-01 00:00:00+00:00
+    - Last commit date: 2020-08-09 18:21:38+09:00
 
 
+* see: <a href="http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_5_A">http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_5_A</a>
+
+
+## Depends on
+
+* :heavy_check_mark: <a href="../../library/python_library/graph/graph.py.html">python_library/graph/graph.py</a>
+* :heavy_check_mark: <a href="../../library/python_library/graph/tree_diameter.py.html">python_library/graph/tree_diameter.py</a>
 
 
 ## Code

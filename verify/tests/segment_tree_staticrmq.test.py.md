@@ -25,15 +25,21 @@ layout: default
 <link rel="stylesheet" href="../../assets/css/copy-button.css" />
 
 
-# :x: tests/segment_tree_staticrmq.test.py
+# :heavy_check_mark: tests/segment_tree_staticrmq.test.py
 
 <a href="../../index.html">Back to top page</a>
 
 * category: <a href="../../index.html#b61a6d542f9036550ba9c401c80f00ef">tests</a>
 * <a href="{{ site.github.repository_url }}/blob/master/tests/segment_tree_staticrmq.test.py">View this file on GitHub</a>
-    - Last commit date: 1970-01-01 00:00:00+00:00
+    - Last commit date: 2020-08-09 18:21:38+09:00
 
 
+* see: <a href="https://judge.yosupo.jp/problem/staticrmq">https://judge.yosupo.jp/problem/staticrmq</a>
+
+
+## Depends on
+
+* :heavy_check_mark: <a href="../../library/python_library/data_structures/segment_tree.py.html">python_library/data_structures/segment_tree.py</a>
 
 
 ## Code

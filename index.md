@@ -99,19 +99,19 @@ layout: default
 
 ### python_library/data_structures
 
-* :warning: <a href="library/python_library/data_structures/fenwick_tree.py.html">python_library/data_structures/fenwick_tree.py</a>
-* :warning: <a href="library/python_library/data_structures/matrix.py.html">python_library/data_structures/matrix.py</a>
-* :warning: <a href="library/python_library/data_structures/range_tree_2d.py.html">python_library/data_structures/range_tree_2d.py</a>
-* :warning: <a href="library/python_library/data_structures/segment_tree.py.html">python_library/data_structures/segment_tree.py</a>
-* :warning: <a href="library/python_library/data_structures/unionfind.py.html">python_library/data_structures/unionfind.py</a>
-* :warning: <a href="library/python_library/data_structures/weighted_unionfind.py.html">python_library/data_structures/weighted_unionfind.py</a>
+* :heavy_check_mark: <a href="library/python_library/data_structures/fenwick_tree.py.html">python_library/data_structures/fenwick_tree.py</a>
+* :heavy_check_mark: <a href="library/python_library/data_structures/matrix.py.html">python_library/data_structures/matrix.py</a>
+* :x: <a href="library/python_library/data_structures/range_tree_2d.py.html">python_library/data_structures/range_tree_2d.py</a>
+* :heavy_check_mark: <a href="library/python_library/data_structures/segment_tree.py.html">python_library/data_structures/segment_tree.py</a>
+* :heavy_check_mark: <a href="library/python_library/data_structures/unionfind.py.html">python_library/data_structures/unionfind.py</a>
+* :heavy_check_mark: <a href="library/python_library/data_structures/weighted_unionfind.py.html">python_library/data_structures/weighted_unionfind.py</a>
 
 
 <div id="aa415874213902fc17e0d0a11c5743d4"></div>
 
 ### python_library/dynamic_programming
 
-* :warning: <a href="library/python_library/dynamic_programming/largest_rect_hist.py.html">python_library/dynamic_programming/largest_rect_hist.py</a>
+* :heavy_check_mark: <a href="library/python_library/dynamic_programming/largest_rect_hist.py.html">python_library/dynamic_programming/largest_rect_hist.py</a>
 
 
 <div id="bb1189d107afaf50a8d799c22c656ecc"></div>
@@ -119,8 +119,8 @@ layout: default
 ### python_library/geometry
 
 * :warning: <a href="library/python_library/geometry/argument_sort.py.html">python_library/geometry/argument_sort.py</a>
-* :warning: <a href="library/python_library/geometry/convex_hull.py.html">python_library/geometry/convex_hull.py</a>
-* :warning: <a href="library/python_library/geometry/geometry.py.html">python_library/geometry/geometry.py</a>
+* :heavy_check_mark: <a href="library/python_library/geometry/convex_hull.py.html">python_library/geometry/convex_hull.py</a>
+* :heavy_check_mark: <a href="library/python_library/geometry/geometry.py.html">python_library/geometry/geometry.py</a>
 
 
 <div id="7e80885bc8a78dc63feed9f40126ba0e"></div>
@@ -130,18 +130,18 @@ layout: default
 * :warning: <a href="library/python_library/graph/__init__.py.html">python_library/graph/__init__.py</a>
 * :warning: <a href="library/python_library/graph/bellman_ford.py.html">python_library/graph/bellman_ford.py</a>
 * :warning: <a href="library/python_library/graph/dijkstra.py.html">python_library/graph/dijkstra.py</a>
-* :warning: <a href="library/python_library/graph/dinic.py.html">python_library/graph/dinic.py</a>
+* :heavy_check_mark: <a href="library/python_library/graph/dinic.py.html">python_library/graph/dinic.py</a>
 * :warning: <a href="library/python_library/graph/ford_fulkerson.py.html">python_library/graph/ford_fulkerson.py</a>
-* :warning: <a href="library/python_library/graph/graph.py.html">python_library/graph/graph.py</a>
+* :heavy_check_mark: <a href="library/python_library/graph/graph.py.html">python_library/graph/graph.py</a>
 * :warning: <a href="library/python_library/graph/graph2.py.html">python_library/graph/graph2.py</a>
-* :warning: <a href="library/python_library/graph/heavy_light_decomposition.py.html">python_library/graph/heavy_light_decomposition.py</a>
+* :heavy_check_mark: <a href="library/python_library/graph/heavy_light_decomposition.py.html">python_library/graph/heavy_light_decomposition.py</a>
 * :warning: <a href="library/python_library/graph/kruskal.py.html">python_library/graph/kruskal.py</a>
-* :warning: <a href="library/python_library/graph/maximum_independet_set.py.html">python_library/graph/maximum_independet_set.py</a>
+* :heavy_check_mark: <a href="library/python_library/graph/maximum_independet_set.py.html">python_library/graph/maximum_independet_set.py</a>
 * :warning: <a href="library/python_library/graph/prim.py.html">python_library/graph/prim.py</a>
-* :warning: <a href="library/python_library/graph/primal_dual.py.html">python_library/graph/primal_dual.py</a>
-* :warning: <a href="library/python_library/graph/scc.py.html">python_library/graph/scc.py</a>
-* :warning: <a href="library/python_library/graph/tree_diameter.py.html">python_library/graph/tree_diameter.py</a>
-* :warning: <a href="library/python_library/graph/two_sat.py.html">python_library/graph/two_sat.py</a>
+* :heavy_check_mark: <a href="library/python_library/graph/primal_dual.py.html">python_library/graph/primal_dual.py</a>
+* :heavy_check_mark: <a href="library/python_library/graph/scc.py.html">python_library/graph/scc.py</a>
+* :heavy_check_mark: <a href="library/python_library/graph/tree_diameter.py.html">python_library/graph/tree_diameter.py</a>
+* :heavy_check_mark: <a href="library/python_library/graph/two_sat.py.html">python_library/graph/two_sat.py</a>
 * :warning: <a href="library/python_library/graph/warshall_floyd.py.html">python_library/graph/warshall_floyd.py</a>
 
 
@@ -150,15 +150,15 @@ layout: default
 ### python_library/math
 
 * :warning: <a href="library/python_library/math/combinations.py.html">python_library/math/combinations.py</a>
-* :warning: <a href="library/python_library/math/disc_log.py.html">python_library/math/disc_log.py</a>
-* :warning: <a href="library/python_library/math/divisor.py.html">python_library/math/divisor.py</a>
-* :warning: <a href="library/python_library/math/euler_totient.py.html">python_library/math/euler_totient.py</a>
-* :warning: <a href="library/python_library/math/extgcd.py.html">python_library/math/extgcd.py</a>
+* :heavy_check_mark: <a href="library/python_library/math/disc_log.py.html">python_library/math/disc_log.py</a>
+* :heavy_check_mark: <a href="library/python_library/math/divisor.py.html">python_library/math/divisor.py</a>
+* :heavy_check_mark: <a href="library/python_library/math/euler_totient.py.html">python_library/math/euler_totient.py</a>
+* :heavy_check_mark: <a href="library/python_library/math/extgcd.py.html">python_library/math/extgcd.py</a>
 * :warning: <a href="library/python_library/math/givens.py.html">python_library/math/givens.py</a>
-* :warning: <a href="library/python_library/math/lcm.py.html">python_library/math/lcm.py</a>
+* :heavy_check_mark: <a href="library/python_library/math/lcm.py.html">python_library/math/lcm.py</a>
 * :warning: <a href="library/python_library/math/linear_recursion_solver.py.html">python_library/math/linear_recursion_solver.py</a>
 * :warning: <a href="library/python_library/math/pascalsTriangle.py.html">python_library/math/pascalsTriangle.py</a>
-* :warning: <a href="library/python_library/math/prime.py.html">python_library/math/prime.py</a>
+* :heavy_check_mark: <a href="library/python_library/math/prime.py.html">python_library/math/prime.py</a>
 
 
 <div id="b234f801618f71357e46912cecf08ace"></div>
@@ -180,7 +180,7 @@ layout: default
 
 ### python_library/string
 
-* :warning: <a href="library/python_library/string/z_algorithm.py.html">python_library/string/z_algorithm.py</a>
+* :heavy_check_mark: <a href="library/python_library/string/z_algorithm.py.html">python_library/string/z_algorithm.py</a>
 
 
 <div id="33fe61f9041d1baeab69fa11a5d6c7d3"></div>
@@ -202,40 +202,40 @@ layout: default
 
 * :x: <a href="verify/tests/argsort_yosupo1.test.py.html">tests/argsort_yosupo1.test.py</a>
 * :x: <a href="verify/tests/argsort_yosupo2.test.py.html">tests/argsort_yosupo2.test.py</a>
-* :x: <a href="verify/tests/convex_hull.test.py.html">tests/convex_hull.test.py</a>
-* :x: <a href="verify/tests/dinic_bimatch.test.py.html">tests/dinic_bimatch.test.py</a>
-* :x: <a href="verify/tests/dinic_max_flow.test.py.html">tests/dinic_max_flow.test.py</a>
-* :x: <a href="verify/tests/disc_log.test.py.html">tests/disc_log.test.py</a>
-* :x: <a href="verify/tests/euler_totient.test.py.html">tests/euler_totient.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/convex_hull.test.py.html">tests/convex_hull.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/dinic_bimatch.test.py.html">tests/dinic_bimatch.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/dinic_max_flow.test.py.html">tests/dinic_max_flow.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/disc_log.test.py.html">tests/disc_log.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/euler_totient.test.py.html">tests/euler_totient.test.py</a>
 * :heavy_check_mark: <a href="verify/tests/example.test.cpp.html">tests/example.test.cpp</a>
-* :x: <a href="verify/tests/example.test.py.html">tests/example.test.py</a>
-* :x: <a href="verify/tests/extgcd.test.py.html">tests/extgcd.test.py</a>
-* :x: <a href="verify/tests/fenwick_tree_aoj.test.py.html">tests/fenwick_tree_aoj.test.py</a>
-* :x: <a href="verify/tests/fenwick_tree_yosupo.test.py.html">tests/fenwick_tree_yosupo.test.py</a>
-* :x: <a href="verify/tests/hld_lca.test.py.html">tests/hld_lca.test.py</a>
-* :x: <a href="verify/tests/hld_vertex_add_path_sum.test.py.html">tests/hld_vertex_add_path_sum.test.py</a>
-* :x: <a href="verify/tests/hld_vertex_add_subtree_sum.test.py.html">tests/hld_vertex_add_subtree_sum.test.py</a>
-* :x: <a href="verify/tests/largest_rect_hist.test.py.html">tests/largest_rect_hist.test.py</a>
-* :x: <a href="verify/tests/largest_rect_rect.test.py.html">tests/largest_rect_rect.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/example.test.py.html">tests/example.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/extgcd.test.py.html">tests/extgcd.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/fenwick_tree_aoj.test.py.html">tests/fenwick_tree_aoj.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/fenwick_tree_yosupo.test.py.html">tests/fenwick_tree_yosupo.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/hld_lca.test.py.html">tests/hld_lca.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/hld_vertex_add_path_sum.test.py.html">tests/hld_vertex_add_path_sum.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/hld_vertex_add_subtree_sum.test.py.html">tests/hld_vertex_add_subtree_sum.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/largest_rect_hist.test.py.html">tests/largest_rect_hist.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/largest_rect_rect.test.py.html">tests/largest_rect_rect.test.py</a>
 * :heavy_check_mark: <a href="verify/tests/lca.test.cpp.html">tests/lca.test.cpp</a>
-* :x: <a href="verify/tests/lcm.test.py.html">tests/lcm.test.py</a>
-* :x: <a href="verify/tests/matrix_determinant.test.py.html">tests/matrix_determinant.test.py</a>
-* :x: <a href="verify/tests/matrix_mult.test.py.html">tests/matrix_mult.test.py</a>
-* :x: <a href="verify/tests/maximum_independet_set.test.py.html">tests/maximum_independet_set.test.py</a>
-* :x: <a href="verify/tests/miller_rabbin.test.py.html">tests/miller_rabbin.test.py</a>
-* :x: <a href="verify/tests/primal_dual.test.py.html">tests/primal_dual.test.py</a>
-* :x: <a href="verify/tests/prime_factorization.test.py.html">tests/prime_factorization.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/lcm.test.py.html">tests/lcm.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/matrix_determinant.test.py.html">tests/matrix_determinant.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/matrix_mult.test.py.html">tests/matrix_mult.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/maximum_independet_set.test.py.html">tests/maximum_independet_set.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/miller_rabbin.test.py.html">tests/miller_rabbin.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/primal_dual.test.py.html">tests/primal_dual.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/prime_factorization.test.py.html">tests/prime_factorization.test.py</a>
 * :x: <a href="verify/tests/range_tree_2d.test.py.html">tests/range_tree_2d.test.py</a>
-* :x: <a href="verify/tests/scc_aoj.test.py.html">tests/scc_aoj.test.py</a>
-* :x: <a href="verify/tests/scc_yosupo.test.py.html">tests/scc_yosupo.test.py</a>
-* :x: <a href="verify/tests/segment_tree_point_add_range_sum.test.py.html">tests/segment_tree_point_add_range_sum.test.py</a>
-* :x: <a href="verify/tests/segment_tree_point_set_range_composite.test.py.html">tests/segment_tree_point_set_range_composite.test.py</a>
-* :x: <a href="verify/tests/segment_tree_range_min_query.test.py.html">tests/segment_tree_range_min_query.test.py</a>
-* :x: <a href="verify/tests/segment_tree_staticrmq.test.py.html">tests/segment_tree_staticrmq.test.py</a>
-* :x: <a href="verify/tests/tree_diameter.test.py.html">tests/tree_diameter.test.py</a>
-* :x: <a href="verify/tests/two_sat.test.py.html">tests/two_sat.test.py</a>
-* :x: <a href="verify/tests/union_find.test.py.html">tests/union_find.test.py</a>
-* :x: <a href="verify/tests/weighted_unionfind.test.py.html">tests/weighted_unionfind.test.py</a>
-* :x: <a href="verify/tests/z_algorithm.test.py.html">tests/z_algorithm.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/scc_aoj.test.py.html">tests/scc_aoj.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/scc_yosupo.test.py.html">tests/scc_yosupo.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/segment_tree_point_add_range_sum.test.py.html">tests/segment_tree_point_add_range_sum.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/segment_tree_point_set_range_composite.test.py.html">tests/segment_tree_point_set_range_composite.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/segment_tree_range_min_query.test.py.html">tests/segment_tree_range_min_query.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/segment_tree_staticrmq.test.py.html">tests/segment_tree_staticrmq.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/tree_diameter.test.py.html">tests/tree_diameter.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/two_sat.test.py.html">tests/two_sat.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/union_find.test.py.html">tests/union_find.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/weighted_unionfind.test.py.html">tests/weighted_unionfind.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/z_algorithm.test.py.html">tests/z_algorithm.test.py</a>
 
 

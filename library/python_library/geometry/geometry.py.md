@@ -25,15 +25,25 @@ layout: default
 <link rel="stylesheet" href="../../../assets/css/copy-button.css" />
 
 
-# :warning: python_library/geometry/geometry.py
+# :heavy_check_mark: python_library/geometry/geometry.py
 
 <a href="../../../index.html">Back to top page</a>
 
 * category: <a href="../../../index.html#bb1189d107afaf50a8d799c22c656ecc">python_library/geometry</a>
 * <a href="{{ site.github.repository_url }}/blob/master/python_library/geometry/geometry.py">View this file on GitHub</a>
-    - Last commit date: 1970-01-01 00:00:00+00:00
+    - Last commit date: 2020-08-09 12:53:27+00:00
 
 
+
+
+## Required by
+
+* :heavy_check_mark: <a href="convex_hull.py.html">python_library/geometry/convex_hull.py</a>
+
+
+## Verified with
+
+* :heavy_check_mark: <a href="../../../verify/tests/convex_hull.test.py.html">tests/convex_hull.test.py</a>
 
 
 ## Code

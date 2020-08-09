@@ -25,15 +25,25 @@ layout: default
 <link rel="stylesheet" href="../../../assets/css/copy-button.css" />
 
 
-# :warning: python_library/graph/tree_diameter.py
+# :heavy_check_mark: python_library/graph/tree_diameter.py
 
 <a href="../../../index.html">Back to top page</a>
 
 * category: <a href="../../../index.html#7e80885bc8a78dc63feed9f40126ba0e">python_library/graph</a>
 * <a href="{{ site.github.repository_url }}/blob/master/python_library/graph/tree_diameter.py">View this file on GitHub</a>
-    - Last commit date: 1970-01-01 00:00:00+00:00
+    - Last commit date: 2020-08-09 18:21:38+09:00
 
 
+
+
+## Depends on
+
+* :heavy_check_mark: <a href="graph.py.html">python_library/graph/graph.py</a>
+
+
+## Verified with
+
+* :heavy_check_mark: <a href="../../../verify/tests/tree_diameter.test.py.html">tests/tree_diameter.test.py</a>
 
 
 ## Code

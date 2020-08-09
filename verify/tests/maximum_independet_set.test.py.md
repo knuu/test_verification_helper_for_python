@@ -25,15 +25,21 @@ layout: default
 <link rel="stylesheet" href="../../assets/css/copy-button.css" />
 
 
-# :x: tests/maximum_independet_set.test.py
+# :heavy_check_mark: tests/maximum_independet_set.test.py
 
 <a href="../../index.html">Back to top page</a>
 
 * category: <a href="../../index.html#b61a6d542f9036550ba9c401c80f00ef">tests</a>
 * <a href="{{ site.github.repository_url }}/blob/master/tests/maximum_independet_set.test.py">View this file on GitHub</a>
-    - Last commit date: 1970-01-01 00:00:00+00:00
+    - Last commit date: 2020-08-09 18:21:38+09:00
 
 
+* see: <a href="https://judge.yosupo.jp/problem/maximum_independent_set">https://judge.yosupo.jp/problem/maximum_independent_set</a>
+
+
+## Depends on
+
+* :heavy_check_mark: <a href="../../library/python_library/graph/maximum_independet_set.py.html">python_library/graph/maximum_independet_set.py</a>
 
 
 ## Code

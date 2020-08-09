@@ -25,15 +25,20 @@ layout: default
 <link rel="stylesheet" href="../../../assets/css/copy-button.css" />
 
 
-# :warning: python_library/data_structures/unionfind.py
+# :heavy_check_mark: python_library/data_structures/unionfind.py
 
 <a href="../../../index.html">Back to top page</a>
 
 * category: <a href="../../../index.html#4f7277da04114aac533381a4614f94a3">python_library/data_structures</a>
 * <a href="{{ site.github.repository_url }}/blob/master/python_library/data_structures/unionfind.py">View this file on GitHub</a>
-    - Last commit date: 1970-01-01 00:00:00+00:00
+    - Last commit date: 2020-08-09 12:53:27+00:00
 
 
+
+
+## Verified with
+
+* :heavy_check_mark: <a href="../../../verify/tests/union_find.test.py.html">tests/union_find.test.py</a>
 
 
 ## Code

@@ -31,9 +31,15 @@ layout: default
 
 * category: <a href="../../index.html#b61a6d542f9036550ba9c401c80f00ef">tests</a>
 * <a href="{{ site.github.repository_url }}/blob/master/tests/range_tree_2d.test.py">View this file on GitHub</a>
-    - Last commit date: 1970-01-01 00:00:00+00:00
+    - Last commit date: 2020-08-09 18:21:38+09:00
 
 
+* see: <a href="http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DSL_2_C">http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DSL_2_C</a>
+
+
+## Depends on
+
+* :x: <a href="../../library/python_library/data_structures/range_tree_2d.py.html">python_library/data_structures/range_tree_2d.py</a>
 
 
 ## Code

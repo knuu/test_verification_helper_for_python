@@ -25,15 +25,21 @@ layout: default
 <link rel="stylesheet" href="../../../assets/css/copy-button.css" />
 
 
-# :warning: python_library/dynamic_programming/largest_rect_hist.py
+# :heavy_check_mark: python_library/dynamic_programming/largest_rect_hist.py
 
 <a href="../../../index.html">Back to top page</a>
 
 * category: <a href="../../../index.html#aa415874213902fc17e0d0a11c5743d4">python_library/dynamic_programming</a>
 * <a href="{{ site.github.repository_url }}/blob/master/python_library/dynamic_programming/largest_rect_hist.py">View this file on GitHub</a>
-    - Last commit date: 1970-01-01 00:00:00+00:00
+    - Last commit date: 2020-08-09 12:53:27+00:00
 
 
+
+
+## Verified with
+
+* :heavy_check_mark: <a href="../../../verify/tests/largest_rect_hist.test.py.html">tests/largest_rect_hist.test.py</a>
+* :heavy_check_mark: <a href="../../../verify/tests/largest_rect_rect.test.py.html">tests/largest_rect_rect.test.py</a>
 
 
 ## Code

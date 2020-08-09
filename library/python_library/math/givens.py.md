@@ -31,7 +31,7 @@ layout: default
 
 * category: <a href="../../../index.html#fcc812ea527936762e2a2536e11e6960">python_library/math</a>
 * <a href="{{ site.github.repository_url }}/blob/master/python_library/math/givens.py">View this file on GitHub</a>
-    - Last commit date: 1970-01-01 00:00:00+00:00
+    - Last commit date: 2020-08-09 12:53:27+00:00
 
 
 
