@@ -25,21 +25,15 @@ layout: default
 <link rel="stylesheet" href="../../../assets/css/copy-button.css" />
 
 
-# :question: python_library/geometry/argument_sort.py
+# :warning: python_library/geometry/argument_sort.py
 
 <a href="../../../index.html">Back to top page</a>
 
 * category: <a href="../../../index.html#bb1189d107afaf50a8d799c22c656ecc">python_library/geometry</a>
 * <a href="{{ site.github.repository_url }}/blob/master/python_library/geometry/argument_sort.py">View this file on GitHub</a>
-    - Last commit date: 2020-08-09 10:20:24+00:00
+    - Last commit date: 1970-01-01 00:00:00+00:00
 
 
-
-
-## Verified with
-
-* :heavy_check_mark: <a href="../../../verify/tests/argsort_yosupo1.test.py.html">tests/argsort_yosupo1.test.py</a>
-* :x: <a href="../../../verify/tests/argsort_yosupo2.test.py.html">tests/argsort_yosupo2.test.py</a>
 
 
 ## Code

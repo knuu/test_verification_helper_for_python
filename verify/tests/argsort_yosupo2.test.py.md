@@ -31,15 +31,9 @@ layout: default
 
 * category: <a href="../../index.html#b61a6d542f9036550ba9c401c80f00ef">tests</a>
 * <a href="{{ site.github.repository_url }}/blob/master/tests/argsort_yosupo2.test.py">View this file on GitHub</a>
-    - Last commit date: 2020-08-09 18:21:38+09:00
+    - Last commit date: 1970-01-01 00:00:00+00:00
 
 
-* see: <a href="https://judge.yosupo.jp/problem/sort_points_by_argument">https://judge.yosupo.jp/problem/sort_points_by_argument</a>
-
-
-## Depends on
-
-* :question: <a href="../../library/python_library/geometry/argument_sort.py.html">python_library/geometry/argument_sort.py</a>
 
 
 ## Code
@@ -47,7 +41,6 @@ layout: default
 <a id="unbundled"></a>
 {% raw %}
 ```cpp
-# verify-helper: IGNORE
 # verify-helper: PROBLEM https://judge.yosupo.jp/problem/sort_points_by_argument
 import sys
 from python_library.geometry.argument_sort import argsort_numpy
