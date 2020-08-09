@@ -31,7 +31,7 @@ layout: default
 
 * category: <a href="../../index.html#b61a6d542f9036550ba9c401c80f00ef">tests</a>
 * <a href="{{ site.github.repository_url }}/blob/master/tests/example.test.py">View this file on GitHub</a>
-    - Last commit date: 2020-08-09 19:25:17+09:00
+    - Last commit date: 2020-08-09 19:42:27+09:00
 
 
 * see: <a href="https://judge.yosupo.jp/problem/aplusb">https://judge.yosupo.jp/problem/aplusb</a>

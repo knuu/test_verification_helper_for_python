@@ -82,27 +82,6 @@ def argsort(points: List[Tuple[float, float]]
     origins.sort(key=cmp_to_key(compare))
     return itertools.chain(lowers, origins, uppers)
 
-
-def yosupo():
-    # https://judge.yosupo.jp/problem/sort_points_by_argument
-    N = int(input())
-    points = [tuple(int(val) for val in input().split()) for _ in range(N)]
-    for x, y in argsort_numpy(points):
-        print(x, y)
-
-
-def yosupo2():
-    # https://judge.yosupo.jp/problem/sort_points_by_argument
-    N = int(input())
-    points = [tuple(int(val) for val in input().split()) for _ in range(N)]
-    for x, y in argsort(points):
-        print(x, y)
-
-
-if __name__ == "__main__":
-    # yosupo()
-    yosupo2()
-
 ```
 {% endraw %}
 
