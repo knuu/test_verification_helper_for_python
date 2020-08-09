@@ -118,7 +118,8 @@ layout: default
 
 ### python_library/geometry
 
-* :warning: <a href="library/python_library/geometry/argument_sort.py.html">python_library/geometry/argument_sort.py</a>
+* :warning: <a href="library/python_library/geometry/argumant_sort_numpy.py.html">python_library/geometry/argumant_sort_numpy.py</a>
+* :heavy_check_mark: <a href="library/python_library/geometry/argument_sort.py.html">python_library/geometry/argument_sort.py</a>
 * :heavy_check_mark: <a href="library/python_library/geometry/convex_hull.py.html">python_library/geometry/convex_hull.py</a>
 * :heavy_check_mark: <a href="library/python_library/geometry/geometry.py.html">python_library/geometry/geometry.py</a>
 
@@ -200,8 +201,8 @@ layout: default
 
 ## Verify Files
 
-* :x: <a href="verify/tests/argsort_yosupo1.test.py.html">tests/argsort_yosupo1.test.py</a>
-* :x: <a href="verify/tests/argsort_yosupo2.test.py.html">tests/argsort_yosupo2.test.py</a>
+* :x: <a href="verify/tests/argsort_numpy_yosupo.test.py.html">tests/argsort_numpy_yosupo.test.py</a>
+* :heavy_check_mark: <a href="verify/tests/argsort_yosupo.test.py.html">tests/argsort_yosupo.test.py</a>
 * :heavy_check_mark: <a href="verify/tests/convex_hull.test.py.html">tests/convex_hull.test.py</a>
 * :heavy_check_mark: <a href="verify/tests/dinic_bimatch.test.py.html">tests/dinic_bimatch.test.py</a>
 * :heavy_check_mark: <a href="verify/tests/dinic_max_flow.test.py.html">tests/dinic_max_flow.test.py</a>

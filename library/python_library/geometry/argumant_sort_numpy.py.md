@@ -21,16 +21,16 @@ layout: default
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/jquery-balloon-js@1.1.2/jquery.balloon.min.js" integrity="sha256-ZEYs9VrgAeNuPvs15E39OsyOJaIkXEEt10fzxJ20+2I=" crossorigin="anonymous"></script>
-<script type="text/javascript" src="../../assets/js/copy-button.js"></script>
-<link rel="stylesheet" href="../../assets/css/copy-button.css" />
+<script type="text/javascript" src="../../../assets/js/copy-button.js"></script>
+<link rel="stylesheet" href="../../../assets/css/copy-button.css" />
 
 
-# :x: tests/argsort_yosupo1.test.py
+# :warning: python_library/geometry/argumant_sort_numpy.py
 
-<a href="../../index.html">Back to top page</a>
+<a href="../../../index.html">Back to top page</a>
 
-* category: <a href="../../index.html#b61a6d542f9036550ba9c401c80f00ef">tests</a>
-* <a href="{{ site.github.repository_url }}/blob/master/tests/argsort_yosupo1.test.py">View this file on GitHub</a>
+* category: <a href="../../../index.html#bb1189d107afaf50a8d799c22c656ecc">python_library/geometry</a>
+* <a href="{{ site.github.repository_url }}/blob/master/python_library/geometry/argumant_sort_numpy.py">View this file on GitHub</a>
     - Last commit date: 1970-01-01 00:00:00+00:00
 
 
@@ -41,22 +41,16 @@ layout: default
 <a id="unbundled"></a>
 {% raw %}
 ```cpp
-# verify-helper: PROBLEM https://judge.yosupo.jp/problem/sort_points_by_argument
-import sys
-from python_library.geometry.argument_sort import argsort
-
-input = sys.stdin.buffer.readline
+from typing import List, Tuple
 
 
-def main():
-    N = int(input())
-    points = [tuple(int(val) for val in input().split()) for _ in range(N)]
-    for x, y in argsort(points):
-        print(x, y)
-
-
-if __name__ == "__main__":
-    main()
+def argsort_numpy(points: List[Tuple[float, float]]
+                  ) -> List[Tuple[float, float]]:
+    import numpy as np
+    args = [(np.arctan2(y, x, dtype=np.longdouble), idx)
+            for idx, (x, y) in enumerate(points)]
+    args.sort()
+    return [points[i] for _, i in args]
 
 ```
 {% endraw %}
@@ -74,5 +68,5 @@ NotImplementedError
 ```
 {% endraw %}
 
-<a href="../../index.html">Back to top page</a>
+<a href="../../../index.html">Back to top page</a>
 

@@ -31,7 +31,7 @@ layout: default
 
 * category: <a href="../../../index.html#7e80885bc8a78dc63feed9f40126ba0e">python_library/graph</a>
 * <a href="{{ site.github.repository_url }}/blob/master/python_library/graph/two_sat.py">View this file on GitHub</a>
-    - Last commit date: 2020-08-09 13:03:09+00:00
+    - Last commit date: 2020-08-09 13:18:46+00:00
 
 
 

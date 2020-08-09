@@ -25,15 +25,20 @@ layout: default
 <link rel="stylesheet" href="../../../assets/css/copy-button.css" />
 
 
-# :warning: python_library/geometry/argument_sort.py
+# :heavy_check_mark: python_library/geometry/argument_sort.py
 
 <a href="../../../index.html">Back to top page</a>
 
 * category: <a href="../../../index.html#bb1189d107afaf50a8d799c22c656ecc">python_library/geometry</a>
 * <a href="{{ site.github.repository_url }}/blob/master/python_library/geometry/argument_sort.py">View this file on GitHub</a>
-    - Last commit date: 1970-01-01 00:00:00+00:00
+    - Last commit date: 2020-08-09 13:18:46+00:00
 
 
+
+
+## Verified with
+
+* :heavy_check_mark: <a href="../../../verify/tests/argsort_yosupo.test.py.html">tests/argsort_yosupo.test.py</a>
 
 
 ## Code
@@ -42,24 +47,11 @@ layout: default
 {% raw %}
 ```cpp
 import itertools
-import sys
 from functools import cmp_to_key
 from typing import Iterable, List, Tuple
 
 
-input = sys.stdin.buffer.readline
-
-
-def argsort_numpy(points: List[Tuple[float, float]]
-                  ) -> List[Tuple[float, float]]:
-    import numpy as np
-    args = [(np.arctan2(y, x, dtype=np.longdouble), idx)
-            for idx, (x, y) in enumerate(points)]
-    args.sort()
-    return [points[i] for _, i in args]
-
-
-def compare(p1, p2):
+def compare(p1, p2) -> int:
     (x1, y1), (x2, y2) = p1, p2
     if x1 * y2 == x2 * y1:
         return 0

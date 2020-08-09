@@ -21,19 +21,25 @@ layout: default
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/jquery-balloon-js@1.1.2/jquery.balloon.min.js" integrity="sha256-ZEYs9VrgAeNuPvs15E39OsyOJaIkXEEt10fzxJ20+2I=" crossorigin="anonymous"></script>
-<script type="text/javascript" src="../../../assets/js/copy-button.js"></script>
-<link rel="stylesheet" href="../../../assets/css/copy-button.css" />
+<script type="text/javascript" src="../../assets/js/copy-button.js"></script>
+<link rel="stylesheet" href="../../assets/css/copy-button.css" />
 
 
-# :warning: python_library/tmp_circular/a.py
+# :heavy_check_mark: tests/argsort_yosupo.test.py
 
-<a href="../../../index.html">Back to top page</a>
+<a href="../../index.html">Back to top page</a>
 
-* category: <a href="../../../index.html#33fe61f9041d1baeab69fa11a5d6c7d3">python_library/tmp_circular</a>
-* <a href="{{ site.github.repository_url }}/blob/master/python_library/tmp_circular/a.py">View this file on GitHub</a>
-    - Last commit date: 2020-08-09 13:18:46+00:00
+* category: <a href="../../index.html#b61a6d542f9036550ba9c401c80f00ef">tests</a>
+* <a href="{{ site.github.repository_url }}/blob/master/tests/argsort_yosupo.test.py">View this file on GitHub</a>
+    - Last commit date: 2020-08-09 22:14:52+09:00
 
 
+* see: <a href="https://judge.yosupo.jp/problem/sort_points_by_argument">https://judge.yosupo.jp/problem/sort_points_by_argument</a>
+
+
+## Depends on
+
+* :heavy_check_mark: <a href="../../library/python_library/geometry/argument_sort.py.html">python_library/geometry/argument_sort.py</a>
 
 
 ## Code
@@ -41,11 +47,23 @@ layout: default
 <a id="unbundled"></a>
 {% raw %}
 ```cpp
-# sample for circular import
-from python_library.tmp_circular.b import b
+# verify-helper: PROBLEM https://judge.yosupo.jp/problem/sort_points_by_argument
+import sys
+from python_library.geometry.argument_sort import argsort
 
-def a():
-    pass
+input = sys.stdin.buffer.readline
+
+
+def main():
+    N = int(input())
+    points = [tuple(int(val) for val in input().split()) for _ in range(N)]
+    for x, y in argsort(points):
+        print(x, y)
+
+
+if __name__ == "__main__":
+    main()
+
 ```
 {% endraw %}
 
@@ -62,5 +80,5 @@ NotImplementedError
 ```
 {% endraw %}
 
-<a href="../../../index.html">Back to top page</a>
+<a href="../../index.html">Back to top page</a>
 

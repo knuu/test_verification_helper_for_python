@@ -25,12 +25,12 @@ layout: default
 <link rel="stylesheet" href="../../assets/css/copy-button.css" />
 
 
-# :x: tests/argsort_yosupo2.test.py
+# :x: tests/argsort_numpy_yosupo.test.py
 
 <a href="../../index.html">Back to top page</a>
 
 * category: <a href="../../index.html#b61a6d542f9036550ba9c401c80f00ef">tests</a>
-* <a href="{{ site.github.repository_url }}/blob/master/tests/argsort_yosupo2.test.py">View this file on GitHub</a>
+* <a href="{{ site.github.repository_url }}/blob/master/tests/argsort_numpy_yosupo.test.py">View this file on GitHub</a>
     - Last commit date: 1970-01-01 00:00:00+00:00
 
 
@@ -42,15 +42,14 @@ layout: default
 {% raw %}
 ```cpp
 # verify-helper: PROBLEM https://judge.yosupo.jp/problem/sort_points_by_argument
-# verify-helper: IGNORE
-
 import sys
-from python_library.geometry.argument_sort import argsort_numpy
+from python_library.geometry.argumant_sort_numpy import argsort_numpy
 
 input = sys.stdin.buffer.readline
 
 
 def main():
+    # argsort with numpy
     N = int(input())
     points = [tuple(int(val) for val in input().split()) for _ in range(N)]
     for x, y in argsort_numpy(points):
