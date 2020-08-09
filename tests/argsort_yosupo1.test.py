@@ -6,7 +6,6 @@ input = sys.stdin.buffer.readline
 
 
 def main():
-    # argsort without numpy
     N = int(input())
     points = [tuple(int(val) for val in input().split()) for _ in range(N)]
     for x, y in argsort(points):
