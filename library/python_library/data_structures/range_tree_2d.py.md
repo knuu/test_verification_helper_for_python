@@ -25,20 +25,15 @@ layout: default
 <link rel="stylesheet" href="../../../assets/css/copy-button.css" />
 
 
-# :x: python_library/data_structures/range_tree_2d.py
+# :warning: python_library/data_structures/range_tree_2d.py
 
 <a href="../../../index.html">Back to top page</a>
 
 * category: <a href="../../../index.html#4f7277da04114aac533381a4614f94a3">python_library/data_structures</a>
 * <a href="{{ site.github.repository_url }}/blob/master/python_library/data_structures/range_tree_2d.py">View this file on GitHub</a>
-    - Last commit date: 2020-08-09 11:23:01+00:00
+    - Last commit date: 1970-01-01 00:00:00+00:00
 
 
-
-
-## Verified with
-
-* :x: <a href="../../../verify/tests/range_tree_2d.test.py.html">tests/range_tree_2d.test.py</a>
 
 
 ## Code
@@ -150,7 +145,7 @@ class RangeTree2D:
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.8.5/x64/lib/python3.8/site-packages/onlinejudge_verify/docs.py", line 349, in write_contents
     bundled_code = language.bundle(self.file_class.file_path, basedir=pathlib.Path.cwd())
-  File "/opt/hostedtoolcache/Python/3.8.5/x64/lib/python3.8/site-packages/onlinejudge_verify/languages/python.py", line 61, in bundle
+  File "/opt/hostedtoolcache/Python/3.8.5/x64/lib/python3.8/site-packages/onlinejudge_verify/languages/python.py", line 67, in bundle
     raise NotImplementedError
 NotImplementedError
 

@@ -25,25 +25,15 @@ layout: default
 <link rel="stylesheet" href="../../../assets/css/copy-button.css" />
 
 
-# :heavy_check_mark: python_library/graph/maximum_independet_set.py
+# :warning: python_library/graph/maximum_independet_set.py
 
 <a href="../../../index.html">Back to top page</a>
 
 * category: <a href="../../../index.html#7e80885bc8a78dc63feed9f40126ba0e">python_library/graph</a>
 * <a href="{{ site.github.repository_url }}/blob/master/python_library/graph/maximum_independet_set.py">View this file on GitHub</a>
-    - Last commit date: 2020-08-09 18:21:38+09:00
+    - Last commit date: 1970-01-01 00:00:00+00:00
 
 
-
-
-## Depends on
-
-* :warning: <a href="../misc/popcount.py.html">python_library/misc/popcount.py</a>
-
-
-## Verified with
-
-* :heavy_check_mark: <a href="../../../verify/tests/maximum_independet_set.test.py.html">tests/maximum_independet_set.test.py</a>
 
 
 ## Code
@@ -96,7 +86,7 @@ def maximum_independet_set(v: int, bad: int, adj_mat):
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.8.5/x64/lib/python3.8/site-packages/onlinejudge_verify/docs.py", line 349, in write_contents
     bundled_code = language.bundle(self.file_class.file_path, basedir=pathlib.Path.cwd())
-  File "/opt/hostedtoolcache/Python/3.8.5/x64/lib/python3.8/site-packages/onlinejudge_verify/languages/python.py", line 61, in bundle
+  File "/opt/hostedtoolcache/Python/3.8.5/x64/lib/python3.8/site-packages/onlinejudge_verify/languages/python.py", line 67, in bundle
     raise NotImplementedError
 NotImplementedError
 

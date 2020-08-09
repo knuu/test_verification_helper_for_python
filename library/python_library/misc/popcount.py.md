@@ -31,14 +31,9 @@ layout: default
 
 * category: <a href="../../../index.html#b234f801618f71357e46912cecf08ace">python_library/misc</a>
 * <a href="{{ site.github.repository_url }}/blob/master/python_library/misc/popcount.py">View this file on GitHub</a>
-    - Last commit date: 2020-08-09 11:23:01+00:00
+    - Last commit date: 1970-01-01 00:00:00+00:00
 
 
-
-
-## Required by
-
-* :heavy_check_mark: <a href="../graph/maximum_independet_set.py.html">python_library/graph/maximum_independet_set.py</a>
 
 
 ## Code
@@ -69,7 +64,7 @@ def popcount(N):
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.8.5/x64/lib/python3.8/site-packages/onlinejudge_verify/docs.py", line 349, in write_contents
     bundled_code = language.bundle(self.file_class.file_path, basedir=pathlib.Path.cwd())
-  File "/opt/hostedtoolcache/Python/3.8.5/x64/lib/python3.8/site-packages/onlinejudge_verify/languages/python.py", line 61, in bundle
+  File "/opt/hostedtoolcache/Python/3.8.5/x64/lib/python3.8/site-packages/onlinejudge_verify/languages/python.py", line 67, in bundle
     raise NotImplementedError
 NotImplementedError
 
