@@ -1,22 +1,9 @@
 import itertools
-import sys
 from functools import cmp_to_key
 from typing import Iterable, List, Tuple
 
 
-input = sys.stdin.buffer.readline
-
-
-def argsort_numpy(points: List[Tuple[float, float]]
-                  ) -> List[Tuple[float, float]]:
-    import numpy as np
-    args = [(np.arctan2(y, x, dtype=np.longdouble), idx)
-            for idx, (x, y) in enumerate(points)]
-    args.sort()
-    return [points[i] for _, i in args]
-
-
-def compare(p1, p2):
+def compare(p1, p2) -> int:
     (x1, y1), (x2, y2) = p1, p2
     if x1 * y2 == x2 * y1:
         return 0
