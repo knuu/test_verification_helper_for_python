@@ -25,7 +25,7 @@ layout: default
 <link rel="stylesheet" href="../../assets/css/copy-button.css" />
 
 
-# :x: tests/matrix_mult.test.py
+# :heavy_check_mark: tests/matrix_mult.test.py
 
 <a href="../../index.html">Back to top page</a>
 
@@ -39,7 +39,7 @@ layout: default
 
 ## Depends on
 
-* :question: <a href="../../library/python_library/data_structures/matrix.py.html">python_library/data_structures/matrix.py</a>
+* :heavy_check_mark: <a href="../../library/python_library/data_structures/matrix.py.html">python_library/data_structures/matrix.py</a>
 
 
 ## Code

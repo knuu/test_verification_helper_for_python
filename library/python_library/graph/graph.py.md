@@ -25,13 +25,13 @@ layout: default
 <link rel="stylesheet" href="../../../assets/css/copy-button.css" />
 
 
-# :question: python_library/graph/graph.py
+# :heavy_check_mark: python_library/graph/graph.py
 
 <a href="../../../index.html">Back to top page</a>
 
 * category: <a href="../../../index.html#7e80885bc8a78dc63feed9f40126ba0e">python_library/graph</a>
 * <a href="{{ site.github.repository_url }}/blob/master/python_library/graph/graph.py">View this file on GitHub</a>
-    - Last commit date: 2020-08-09 10:02:04+00:00
+    - Last commit date: 2020-08-09 10:20:24+00:00
 
 
 
@@ -39,7 +39,7 @@ layout: default
 ## Required by
 
 * :heavy_check_mark: <a href="heavy_light_decomposition.py.html">python_library/graph/heavy_light_decomposition.py</a>
-* :x: <a href="tree_diameter.py.html">python_library/graph/tree_diameter.py</a>
+* :heavy_check_mark: <a href="tree_diameter.py.html">python_library/graph/tree_diameter.py</a>
 
 
 ## Verified with
@@ -47,7 +47,7 @@ layout: default
 * :heavy_check_mark: <a href="../../../verify/tests/hld_lca.test.py.html">tests/hld_lca.test.py</a>
 * :heavy_check_mark: <a href="../../../verify/tests/hld_vertex_add_path_sum.test.py.html">tests/hld_vertex_add_path_sum.test.py</a>
 * :heavy_check_mark: <a href="../../../verify/tests/hld_vertex_add_subtree_sum.test.py.html">tests/hld_vertex_add_subtree_sum.test.py</a>
-* :x: <a href="../../../verify/tests/tree_diameter.test.py.html">tests/tree_diameter.test.py</a>
+* :heavy_check_mark: <a href="../../../verify/tests/tree_diameter.test.py.html">tests/tree_diameter.test.py</a>
 
 
 ## Code

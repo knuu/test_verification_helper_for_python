@@ -25,7 +25,7 @@ layout: default
 <link rel="stylesheet" href="../../assets/css/copy-button.css" />
 
 
-# :x: tests/miller_rabbin.test.py
+# :heavy_check_mark: tests/miller_rabbin.test.py
 
 <a href="../../index.html">Back to top page</a>
 
@@ -39,7 +39,7 @@ layout: default
 
 ## Depends on
 
-* :x: <a href="../../library/python_library/math/prime.py.html">python_library/math/prime.py</a>
+* :heavy_check_mark: <a href="../../library/python_library/math/prime.py.html">python_library/math/prime.py</a>
 
 
 ## Code

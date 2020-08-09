@@ -25,7 +25,7 @@ layout: default
 <link rel="stylesheet" href="../../assets/css/copy-button.css" />
 
 
-# :x: tests/maximum_independet_set.test.py
+# :heavy_check_mark: tests/maximum_independet_set.test.py
 
 <a href="../../index.html">Back to top page</a>
 
@@ -39,7 +39,7 @@ layout: default
 
 ## Depends on
 
-* :x: <a href="../../library/python_library/graph/maximum_independet_set.py.html">python_library/graph/maximum_independet_set.py</a>
+* :heavy_check_mark: <a href="../../library/python_library/graph/maximum_independet_set.py.html">python_library/graph/maximum_independet_set.py</a>
 
 
 ## Code

@@ -25,7 +25,7 @@ layout: default
 <link rel="stylesheet" href="../../assets/css/copy-button.css" />
 
 
-# :x: tests/scc_yosupo.test.py
+# :heavy_check_mark: tests/scc_yosupo.test.py
 
 <a href="../../index.html">Back to top page</a>
 
@@ -39,7 +39,7 @@ layout: default
 
 ## Depends on
 
-* :x: <a href="../../library/python_library/graph/scc.py.html">python_library/graph/scc.py</a>
+* :heavy_check_mark: <a href="../../library/python_library/graph/scc.py.html">python_library/graph/scc.py</a>
 
 
 ## Code

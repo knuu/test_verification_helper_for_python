@@ -25,7 +25,7 @@ layout: default
 <link rel="stylesheet" href="../../assets/css/copy-button.css" />
 
 
-# :x: tests/primal_dual.test.py
+# :heavy_check_mark: tests/primal_dual.test.py
 
 <a href="../../index.html">Back to top page</a>
 
@@ -39,7 +39,7 @@ layout: default
 
 ## Depends on
 
-* :x: <a href="../../library/python_library/graph/primal_dual.py.html">python_library/graph/primal_dual.py</a>
+* :heavy_check_mark: <a href="../../library/python_library/graph/primal_dual.py.html">python_library/graph/primal_dual.py</a>
 
 
 ## Code

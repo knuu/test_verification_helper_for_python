@@ -25,21 +25,21 @@ layout: default
 <link rel="stylesheet" href="../../../assets/css/copy-button.css" />
 
 
-# :x: python_library/graph/scc.py
+# :heavy_check_mark: python_library/graph/scc.py
 
 <a href="../../../index.html">Back to top page</a>
 
 * category: <a href="../../../index.html#7e80885bc8a78dc63feed9f40126ba0e">python_library/graph</a>
 * <a href="{{ site.github.repository_url }}/blob/master/python_library/graph/scc.py">View this file on GitHub</a>
-    - Last commit date: 2020-08-09 10:02:04+00:00
+    - Last commit date: 2020-08-09 10:20:24+00:00
 
 
 
 
 ## Verified with
 
-* :x: <a href="../../../verify/tests/scc_aoj.test.py.html">tests/scc_aoj.test.py</a>
-* :x: <a href="../../../verify/tests/scc_yosupo.test.py.html">tests/scc_yosupo.test.py</a>
+* :heavy_check_mark: <a href="../../../verify/tests/scc_aoj.test.py.html">tests/scc_aoj.test.py</a>
+* :heavy_check_mark: <a href="../../../verify/tests/scc_yosupo.test.py.html">tests/scc_yosupo.test.py</a>
 
 
 ## Code

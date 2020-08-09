@@ -25,7 +25,7 @@ layout: default
 <link rel="stylesheet" href="../../assets/css/copy-button.css" />
 
 
-# :x: tests/z_algorithm.test.py
+# :heavy_check_mark: tests/z_algorithm.test.py
 
 <a href="../../index.html">Back to top page</a>
 
@@ -39,7 +39,7 @@ layout: default
 
 ## Depends on
 
-* :x: <a href="../../library/python_library/string/z_algorithm.py.html">python_library/string/z_algorithm.py</a>
+* :heavy_check_mark: <a href="../../library/python_library/string/z_algorithm.py.html">python_library/string/z_algorithm.py</a>
 
 
 ## Code

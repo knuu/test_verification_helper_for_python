@@ -25,20 +25,20 @@ layout: default
 <link rel="stylesheet" href="../../../assets/css/copy-button.css" />
 
 
-# :x: python_library/string/z_algorithm.py
+# :heavy_check_mark: python_library/string/z_algorithm.py
 
 <a href="../../../index.html">Back to top page</a>
 
 * category: <a href="../../../index.html#a280567310207d0ec287bcfac252dc53">python_library/string</a>
 * <a href="{{ site.github.repository_url }}/blob/master/python_library/string/z_algorithm.py">View this file on GitHub</a>
-    - Last commit date: 2020-08-09 10:02:04+00:00
+    - Last commit date: 2020-08-09 10:20:24+00:00
 
 
 
 
 ## Verified with
 
-* :x: <a href="../../../verify/tests/z_algorithm.test.py.html">tests/z_algorithm.test.py</a>
+* :heavy_check_mark: <a href="../../../verify/tests/z_algorithm.test.py.html">tests/z_algorithm.test.py</a>
 
 
 ## Code

@@ -25,7 +25,7 @@ layout: default
 <link rel="stylesheet" href="../../assets/css/copy-button.css" />
 
 
-# :x: tests/union_find.test.py
+# :heavy_check_mark: tests/union_find.test.py
 
 <a href="../../index.html">Back to top page</a>
 
@@ -39,7 +39,7 @@ layout: default
 
 ## Depends on
 
-* :x: <a href="../../library/python_library/data_structures/unionfind.py.html">python_library/data_structures/unionfind.py</a>
+* :heavy_check_mark: <a href="../../library/python_library/data_structures/unionfind.py.html">python_library/data_structures/unionfind.py</a>
 
 
 ## Code

@@ -38,7 +38,7 @@ layout: default
 
 ## Depends on
 
-* :question: <a href="graph.py.html">python_library/graph/graph.py</a>
+* :heavy_check_mark: <a href="graph.py.html">python_library/graph/graph.py</a>
 
 
 ## Verified with

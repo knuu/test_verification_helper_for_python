@@ -25,20 +25,20 @@ layout: default
 <link rel="stylesheet" href="../../../assets/css/copy-button.css" />
 
 
-# :x: python_library/data_structures/weighted_unionfind.py
+# :heavy_check_mark: python_library/data_structures/weighted_unionfind.py
 
 <a href="../../../index.html">Back to top page</a>
 
 * category: <a href="../../../index.html#4f7277da04114aac533381a4614f94a3">python_library/data_structures</a>
 * <a href="{{ site.github.repository_url }}/blob/master/python_library/data_structures/weighted_unionfind.py">View this file on GitHub</a>
-    - Last commit date: 2020-08-09 10:02:04+00:00
+    - Last commit date: 2020-08-09 10:20:24+00:00
 
 
 
 
 ## Verified with
 
-* :x: <a href="../../../verify/tests/weighted_unionfind.test.py.html">tests/weighted_unionfind.test.py</a>
+* :heavy_check_mark: <a href="../../../verify/tests/weighted_unionfind.test.py.html">tests/weighted_unionfind.test.py</a>
 
 
 ## Code
