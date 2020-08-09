@@ -68,6 +68,7 @@ def compare(p1, p2):
 
 def argsort(points: List[Tuple[float, float]]
             ) -> Iterable[Tuple[float, float]]:
+    # argsort without numpy
     lowers, uppers, origins = [], [], []
 
     for x, y in points:
