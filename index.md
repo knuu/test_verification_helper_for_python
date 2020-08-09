@@ -202,7 +202,6 @@ layout: default
 
 * :x: <a href="verify/tests/argsort_yosupo1.test.py.html">tests/argsort_yosupo1.test.py</a>
 * :x: <a href="verify/tests/argsort_yosupo2.test.py.html">tests/argsort_yosupo2.test.py</a>
-* :heavy_check_mark: <a href="verify/tests/circular_import.test.py.html">tests/circular_import.test.py</a>
 * :heavy_check_mark: <a href="verify/tests/convex_hull.test.py.html">tests/convex_hull.test.py</a>
 * :heavy_check_mark: <a href="verify/tests/dinic_bimatch.test.py.html">tests/dinic_bimatch.test.py</a>
 * :heavy_check_mark: <a href="verify/tests/dinic_max_flow.test.py.html">tests/dinic_max_flow.test.py</a>
