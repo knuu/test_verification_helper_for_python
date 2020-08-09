@@ -1,4 +1,6 @@
 # verify-helper: PROBLEM https://judge.yosupo.jp/problem/sort_points_by_argument
+# verify-helper: IGNORE
+
 import sys
 from python_library.geometry.argument_sort import argsort_numpy
 
